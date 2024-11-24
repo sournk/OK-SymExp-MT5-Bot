@@ -4,7 +4,7 @@ The Expert Adviser for MetaTrader 5 with Symbol analysis tools
 * Created by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me)
 * https://www.mql5.com/en/job/228394
 * https://docs.google.com/document/d/1LMAdo3Hbs8TwVrMA_7W20x0fsfvssmbwKDGVgr08Eq0/edit?tab=t.0
-* Version: 1.00
+* Version: 1.02
 
 !!! warning ПРЕДУПРЕЖДЕНИЕ
     1. Торговая стратегия определена клиентом, и автор не несет за нее ответственности.
@@ -13,6 +13,13 @@ The Expert Adviser for MetaTrader 5 with Symbol analysis tools
     4. Использование бота на свой страх и риск.
 
 ![alt Layout](img/UM001.%20Layout.png)    
+
+## Что нового
+
+```
+1.02: [*] Netting account is now allowed.
+1.01: [*] Fixed duplication of the window after TF changes.
+```
 
 ## Установка
 
